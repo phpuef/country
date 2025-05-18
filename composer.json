@@ -1,6 +1,6 @@
 {
-    "name": "phpuef/currency",
-    "type": "template",
+    "name": "phpuef/country",
+    "type": "library",
     "require-dev": {
         "phpunit/phpunit": "^12.1",
         "phpstan/phpstan": "^2.1",

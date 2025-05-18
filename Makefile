@@ -17,7 +17,7 @@ composer:
              composer $(filter-out $@,$(MAKECMDGOALS))
 
 install:
-	$(MAKE) composer install
+	$(MAKE) composer update && $(MAKE) composer dump-autoload
 
 tests:
 		podman run --rm -it \
