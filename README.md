@@ -5,7 +5,7 @@ This package provides functions to search for country information ([ISO 3166-1](
 
 [![Static Badge](https://img.shields.io/badge/Github-phpuef%2Fcountry-blue?style=for-the-badge&logo=github&link=github.com%2Fphpuef%2Fcountry)](https://github.com/phpuef/country)
 
-![Packagist Downloads](https://img.shields.io/packagist/dt/phpuef/country)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/phpuef/country)](https://packagist.org/packages/phpuef/country)
 [![GitHub stars](https://img.shields.io/github/stars/phpuef/country?style=social)](https://github.com/phpuef/country/stargazers)
 ![PHPStan](https://github.com/phpuef/country/actions/workflows/phpstan.yml/badge.svg)
 [![Tests](https://github.com/phpuef/country/actions/workflows/tests.yml/badge.svg)](https://github.com/phpuef/country/actions/workflows/tests.yml)
