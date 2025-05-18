@@ -3,7 +3,7 @@
 # Country
 This package provides functions to search for country information ([ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html)) based on their country codes (Alpha-2, Alpha-3, Numeric) and names. It is designed for easy integration into applications that need to work with country codes or names.
 
-[![Static Badge](https://img.shields.io/badge/Github-phpuef%2Fcountry-blue?style=for-the-badge&logo=github&link=github.com%2Fphpuef%2Fcountry)](https://github.com/phpuef/github-lib-template)
+[![Static Badge](https://img.shields.io/badge/Github-phpuef%2Fcountry-blue?style=for-the-badge&logo=github&link=github.com%2Fphpuef%2Fcountry)](https://github.com/phpuef/country)
 
 ![Packagist Downloads](https://img.shields.io/packagist/dt/phpuef/country)
 [![GitHub stars](https://img.shields.io/github/stars/phpuef/country?style=social)](https://github.com/phpuef/country/stargazers)
