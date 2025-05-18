@@ -26,7 +26,7 @@ This package provides functions to search for country information ([ISO 3166-1](
 ## Installation
 
 ```shell
-  composer require phpuef/github-lib-template
+  composer require phpuef/country
 ```
 
 ## Usage
